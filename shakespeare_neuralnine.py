@@ -1,13 +1,3 @@
-'''
-
-Code by NeuralNine (c) 2020
-Visit https://www.neuralnine.com/
-
-Instagram: @neuralnine
-YouTube: NeuralNine
-
-'''
-
 import random
 import numpy as np
 import tensorflow as tf
